@@ -179,6 +179,19 @@ export class ContributorsService {
           { url: 'https://github.com/FlavioLandes', content: 'Github' },
         ],
       },
+      {
+        image: 'assets/img/top_contributors/Wagner-G-Jesus.jpg',
+        name: 'Wagner G Jesus',
+        position: 'Fullstack Developer',
+        links: [
+          {
+            url:
+              'https://www.linkedin.com/in/wagnergjesus/',
+            content: 'Linkedin',
+          },
+          { url: 'https://github.com/wagnergjesus', content: 'Github' },
+        ],
+      },
     ];
 
     return contributors;
